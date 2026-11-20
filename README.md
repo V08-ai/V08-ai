@@ -12,6 +12,11 @@ Les règles de lecture appliquées dans Temi, avec leurs tests, sous licence Apa
 - **[decp-lecture](https://github.com/V08-ai/decp-lecture)** : lire les données essentielles de la commande publique (DECP) consolidées sans se tromper, avec les montants fiables, les groupements et les personnes physiques. En SQL pour DuckDB.
 - **[scdl-collectivites](https://github.com/V08-ai/scdl-collectivites)** : lire les délibérations et les budgets des collectivités au format SCDL sans compter deux fois un même budget, et le texte de leurs PDF, scans compris.
 
+## Notes publiées
+
+- [Ce que les délibérations disent des achats à venir](https://github.com/V08-ai/notes-commande-publique/blob/main/deliberations-signaux-achat-2025.md) : une mesure sur les délibérations bretonnes de 2025.
+- [Lire les DECP consolidées sans se tromper](https://github.com/V08-ai/notes-commande-publique/blob/main/lire-les-decp-consolidees.md) : le grain, les montants, les groupements.
+
 ## Les données que je travaille
 
 - **Les marchés attribués** : les données essentielles de la commande publique (DECP), dans la consolidation de decp.info.
